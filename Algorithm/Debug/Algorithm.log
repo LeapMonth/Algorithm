@@ -1,4 +1,5 @@
-﻿  BubbleSort.cpp
-  MainSort.cpp
+﻿  MainSort.cpp
+  SelectionSort.cpp
+C:\Users\soong\source\repos\Algorithm\Algorithm\SelectionSort.cpp(21,85): warning C4305: “初始化”: 从“double”到“float”截断
   正在生成代码...
   Algorithm.vcxproj -> C:\Users\soong\source\repos\Algorithm\Debug\Algorithm.exe
