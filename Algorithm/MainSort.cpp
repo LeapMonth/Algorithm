@@ -5,6 +5,7 @@ int BubbleSort();
 int SelectionSort();
 int InsertionSort();
 int ShellSort();
+int MergeSort();
 
 int main(void)
 {
@@ -12,6 +13,7 @@ int main(void)
 	SelectionSort();
 	InsertionSort();
 	ShellSort();
+	MergeSort();
 	cout << "main done" << endl;
 	return 0;
 }

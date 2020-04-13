@@ -1,2 +1,4 @@
-﻿  ShellSort.cpp
+﻿  MergeSort.cpp
+C:\Users\soong\source\repos\Algorithm\Algorithm\MergeSort.cpp(69,96): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\soong\source\repos\Algorithm\Algorithm\MergeSort.cpp(76,97): warning C4305: “初始化”: 从“double”到“float”截断
   Algorithm.vcxproj -> C:\Users\soong\source\repos\Algorithm\Debug\Algorithm.exe
