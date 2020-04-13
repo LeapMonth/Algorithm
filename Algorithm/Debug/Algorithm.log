@@ -1,3 +1,2 @@
-﻿  InsertionSort.cpp
-C:\Users\soong\source\repos\Algorithm\Algorithm\InsertionSort.cpp(21,81): warning C4305: “初始化”: 从“double”到“float”截断
+﻿  ShellSort.cpp
   Algorithm.vcxproj -> C:\Users\soong\source\repos\Algorithm\Debug\Algorithm.exe
