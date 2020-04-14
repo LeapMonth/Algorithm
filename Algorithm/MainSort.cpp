@@ -6,6 +6,7 @@ int SelectionSort();
 int InsertionSort();
 int ShellSort();
 int MergeSort();
+int QuickSort();
 
 int main(void)
 {
@@ -14,6 +15,7 @@ int main(void)
 	InsertionSort();
 	ShellSort();
 	MergeSort();
+	QuickSort();
 	cout << "main done" << endl;
 	return 0;
 }
