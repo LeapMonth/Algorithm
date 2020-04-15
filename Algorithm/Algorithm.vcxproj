@@ -146,6 +146,7 @@
     <ClCompile Include="MainSort.cpp" />
     <ClCompile Include="MaxSubArray.cpp" />
     <ClCompile Include="MergeSort.cpp" />
+    <ClCompile Include="MinDistance.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="ShellSort.cpp" />
