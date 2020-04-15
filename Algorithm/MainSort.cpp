@@ -8,6 +8,7 @@ int ShellSort();
 int MergeSort();
 int QuickSort();
 int HeapSort();
+int ClimbStairs();
 
 int main(void)
 {
@@ -18,6 +19,7 @@ int main(void)
 	MergeSort();
 	QuickSort();
 	HeapSort();
+	ClimbStairs();
 	cout << "main done" << endl;
 	return 0;
 }
