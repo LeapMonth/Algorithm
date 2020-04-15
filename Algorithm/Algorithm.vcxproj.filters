@@ -42,5 +42,8 @@
     <ClCompile Include="ClimbStairs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MaxSubArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -9,6 +9,7 @@ int MergeSort();
 int QuickSort();
 int HeapSort();
 int ClimbStairs();
+int MaxSubArray();
 
 int main(void)
 {
@@ -20,6 +21,7 @@ int main(void)
 	QuickSort();
 	HeapSort();
 	ClimbStairs();
+	MaxSubArray();
 	cout << "main done" << endl;
 	return 0;
 }
