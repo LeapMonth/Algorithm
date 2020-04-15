@@ -10,6 +10,7 @@ int QuickSort();
 int HeapSort();
 int ClimbStairs();
 int MaxSubArray();
+int LongestPalindrome();
 
 int main(void)
 {
@@ -22,6 +23,7 @@ int main(void)
 	HeapSort();
 	ClimbStairs();
 	MaxSubArray();
+	LongestPalindrome();
 	cout << "main done" << endl;
 	return 0;
 }

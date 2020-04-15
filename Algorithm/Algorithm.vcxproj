@@ -142,6 +142,7 @@
     <ClCompile Include="ClimbStairs.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
+    <ClCompile Include="LongestPalindrome.cpp" />
     <ClCompile Include="MainSort.cpp" />
     <ClCompile Include="MaxSubArray.cpp" />
     <ClCompile Include="MergeSort.cpp" />
